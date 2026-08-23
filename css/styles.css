@@ -1855,3 +1855,57 @@ textarea {
     transition-duration: 0.01ms !important;
   }
 }
+
+/* Legal pages: one readable column of prose, no page furniture. */
+
+.legal {
+  max-width: 46rem;
+  padding: 4rem 0 5rem;
+}
+
+.legal h2 {
+  margin: 2.5rem 0 0.75rem;
+  font-size: 1.2rem;
+  font-weight: 700;
+  letter-spacing: -0.01em;
+}
+
+.legal p,
+.legal li {
+  color: var(--muted);
+  line-height: 1.65;
+}
+
+.legal p {
+  margin: 0 0 1rem;
+}
+
+.legal ul {
+  margin: 0 0 1.25rem;
+  padding-left: 1.15rem;
+}
+
+.legal li {
+  margin-bottom: 0.45rem;
+}
+
+.legal strong {
+  color: var(--text);
+  font-weight: 600;
+}
+
+.legal a {
+  color: var(--accent);
+}
+
+.legal-meta {
+  margin-bottom: 2.5rem;
+  font-size: 0.9rem;
+}
+
+.legal-back {
+  margin-top: 3rem;
+  padding-top: 1.5rem;
+  border-top: 1px solid var(--border);
+  font-weight: 600;
+}

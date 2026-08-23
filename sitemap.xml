@@ -19,4 +19,22 @@
     <xhtml:link rel="alternate" hreflang="sv" href="https://chargeddata.com/sv/"/>
     <xhtml:link rel="alternate" hreflang="x-default" href="https://chargeddata.com/"/>
   </url>
+  <url>
+    <loc>https://chargeddata.com/privacy/</loc>
+    <lastmod>2026-08-24</lastmod>
+    <changefreq>yearly</changefreq>
+    <priority>0.3</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="https://chargeddata.com/privacy/"/>
+    <xhtml:link rel="alternate" hreflang="sv" href="https://chargeddata.com/sv/integritetspolicy/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://chargeddata.com/privacy/"/>
+  </url>
+  <url>
+    <loc>https://chargeddata.com/sv/integritetspolicy/</loc>
+    <lastmod>2026-08-24</lastmod>
+    <changefreq>yearly</changefreq>
+    <priority>0.3</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="https://chargeddata.com/privacy/"/>
+    <xhtml:link rel="alternate" hreflang="sv" href="https://chargeddata.com/sv/integritetspolicy/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://chargeddata.com/privacy/"/>
+  </url>
 </urlset>
