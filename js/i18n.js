@@ -26,8 +26,8 @@
   ];
 
   var sv = {
-    "meta.title": "Charged Development — mjukvara, data och automation för företag",
-    "meta.description": "Charged Development är ett Stockholmsbaserat IT-team som bygger mjukvara, dataflöden och automation som tar bort manuellt arbete. 18 levererade projekt. Kostnadsfritt introsamtal.",
+    "meta.title": "Charged Development — mjukvara, data och automation | Sverige",
+    "meta.description": "Charged Development — ett Stockholmsbaserat teknikbolag som bygger mjukvara, dataflöden och automation som tar bort manuellt arbete. 18 projekt sedan 2019.",
     "meta.ogDescription": "Vi bygger mjukvara, dataflöden och automation som tar bort manuellt arbete. Baserade i Stockholm, med kunder över hela världen.",
 
     "a11y.skip": "Hoppa till innehållet",
@@ -51,9 +51,9 @@
     "cta.startStep1": "Börja med steg 1",
     "cta.askUs": "Fråga oss",
 
-    "hero.badge": "Baserade i Stockholm · Kunder över hela världen",
+    "hero.badge": "Stockholm, Sverige · Kunder över hela världen",
     "hero.title": "Fixa långsamma processer.<br><em>Bygg mjukvara som lönar sig.</em>",
-    "hero.lead": "Vi bygger mjukvaran, dataflödena och automationen som tar bort det manuella arbetet från ert team — från första samtalet till långsiktig förvaltning. Tydlig omfattning, mätbara resultat, inga svarta lådor.",
+    "hero.lead": "Charged Development bygger mjukvaran, dataflödena och automationen som tar bort det manuella arbetet från ert team — från första samtalet till långsiktig förvaltning. Tydlig omfattning, mätbara resultat, inga svarta lådor.",
     "hero.directLabel": "Vill ni hellre prata direkt?",
     "hero.fact1": "levererade projekt",
     "hero.fact2": "verksamma sedan",
@@ -69,30 +69,36 @@
     "hero.trustNda": "samt sekretessbelagda uppdrag för privata bolag",
 
     "services.label": "Tjänster",
-    "services.title": "Tre sätt vi hjälper er att gå snabbare fram",
-    "services.intro": "Vi utgår från resultat, inte modeord. Berätta vad som är långsamt, manuellt eller oklart — så föreslår vi en praktisk väg framåt.",
+    "services.title": "Mjukvara, data och automation — tre sätt vi hjälper er framåt",
+    "services.intro": "Systemutveckling, dataanalys och automatisering av affärsprocesser — vi utgår från resultat, inte modeord. Berätta vad som är långsamt, manuellt eller oklart, så föreslår vi en praktisk väg framåt.",
     "services.ctaText": "Osäkra på vilken av dem ni behöver? Det är precis vad det första samtalet är till för.",
-    "services.build.title": "Bygga — mjukvara och produkter",
-    "services.build.body": "Skräddarsydda applikationer och dedikerad produktsupport, så att ert team kan fokusera på affären.",
-    "services.build.item1": "Utveckling av mjukvara och applikationer",
-    "services.build.item2": "Outsourcad produktutveckling och support",
+    "services.build.title": "Bygga — skräddarsydd systemutveckling",
+    "services.build.body": "Skräddarsydda webb- och mobilapplikationer, MVP:er och dedikerad produktsupport, så att ert team kan fokusera på affären.",
+    "services.build.item1": "Skräddarsydd mjukvaru- och systemutveckling",
+    "services.build.item2": "Webbutveckling och apputveckling",
+    "services.build.item3": "MVP-utveckling och modernisering av äldre system",
+    "services.build.item4": "Outsourcad produktutveckling och support",
     "services.build.outcome": "Leverans i tid, med ett team som stannar kvar efter lansering.",
     "services.data.title": "Data och AI — från rådata till beslut",
     "services.data.body": "Koppla ihop era system, automatisera repetitivt arbete och använd maskininlärning där den faktiskt gör nytta.",
-    "services.data.item1": "Dataanalys och dashboards",
-    "services.data.item2": "Databearbetning och integrationsflöden",
-    "services.data.item3": "Dataannotering för AI och ML",
-    "services.data.item4": "Maskininlärning och statistisk modellering",
+    "services.data.item1": "Dataanalys, dashboards och beslutsstöd (BI)",
+    "services.data.item2": "Dataingenjörskap och integrationsflöden",
+    "services.data.item3": "Maskininlärning och prediktiv modellering",
+    "services.data.item4": "Datorseende, OCR och dokumenttolkning",
+    "services.data.item5": "Automatisering av affärsprocesser och RPA",
+    "services.data.item6": "Dataannotering för AI och ML",
     "services.data.outcome": "Beslut som bygger på data, inte gissningar.",
-    "services.advise.title": "Rådgivning och skalning — konsult och outsourcing",
+    "services.advise.title": "Rådgivning och skalning — IT-konsult och outsourcing",
     "services.advise.body": "Klarhet innan ni investerar, och extra kapacitet när ni behöver den.",
     "services.advise.item1": "IT-rådgivning och tekniska granskningar",
-    "services.advise.item2": "Flexibla partnerskap för outsourcad utveckling",
+    "services.advise.item2": "Dedikerade utvecklingsteam och konsultförstärkning",
+    "services.advise.item3": "Nearshore-utveckling från Sverige",
+    "services.advise.item4": "Flexibla partnerskap för outsourcad utveckling",
     "services.advise.outcome": "Från en enskild granskning till ett långsiktigt utvecklingsteam — i er takt och inom er budget.",
 
     "work.label": "Våra projekt",
     "work.title": "18 projekt. Mätbara resultat.",
-    "work.intro": "Varje projekt nedan är verkligt arbete som levererats till en kund — mål, lösning, resultat. Kundnamn utelämnas där sekretessavtal gäller. Filtrera efter den typ av problem ni vill lösa.",
+    "work.intro": "Varje projekt nedan är verkligt arbete som levererats till en kund — mål, lösning, resultat. Maskininlärning, automation, dataanalys och skräddarsydd systemutveckling, där kundnamn utelämnas när sekretessavtal gäller. Filtrera efter den typ av problem ni vill lösa.",
     "work.filterAll": "Alla",
     "work.goal": "Mål",
     "work.solution": "Lösning",
@@ -217,12 +223,12 @@
 
     "clients.label": "Vilka vi hjälper",
     "clients.title": "För företag som vill ha resultat, inte presentationer",
-    "clients.intro": "Vi arbetar med koncerner, små och medelstora företag och växande bolag över hela världen. De flesta kunder kommer till oss med något av dessa tre problem.",
+    "clients.intro": "Vi arbetar med koncerner, små och medelstora företag och växande bolag över hela världen — som IT-konsultpartner, som dedikerat utvecklingsteam eller båda. De flesta kunder kommer till oss med något av dessa tre problem.",
     "clients.one.title": "Analys och automation",
     "clients.one.body": "Er data ligger i separata system och era processer bygger fortfarande på manuellt arbete. Vi bygger flödena, dashboarderna och automationen som gör verksamheten mätbar.",
     "clients.two.title": "Produktivitet genom IT",
     "clients.two.body": "Ni vill ha färre flaskhalsar och snabbare beslut. Vi bygger verktyg som passar hur ert team redan arbetar, och visar nyttan tidigt i stället för i slutet.",
-    "clients.three.title": "Smart outsourcing",
+    "clients.three.title": "IT-outsourcing och dedikerade team",
     "clients.three.body": "Ni behöver kompetens utan att anställa ett helt internt team. Vi arbetar som en förlängning av er verksamhet — transparent, flexibelt och lätt att skala upp eller ner.",
 
     "process.label": "Så arbetar vi",
@@ -247,7 +253,7 @@
 
     "about.label": "Om oss",
     "about.title": "Ett litet team som rör sig snabbt",
-    "about.intro": "Charged Development är ett internationellt IT-outsourcingteam med huvudkontor i Stockholm. Vi startade 2019 och relanserade som internationellt bolag 2023. Vi arbetar helt på distans, och därför har geografin aldrig begränsat vilka vi kan arbeta med.",
+    "about.intro": "Charged Development — ofta bara kallat Charged — är ett svenskt teknikbolag och internationellt IT-outsourcingteam med huvudkontor i Stockholm. Vi startade 2019 och relanserade som internationellt bolag 2023. Vi arbetar helt på distans, och därför har geografin aldrig begränsat vilka vi kan arbeta med.",
     "about.whyTitle": "Varför arbeta med oss",
     "about.why1": "<strong>Snabbhet</strong> — snabb start, oftast inom 2–5 arbetsdagar från avtal",
     "about.why2": "<strong>Kvalitet</strong> — beprövad teknik, grundlig testning och garantitid",
@@ -280,6 +286,8 @@
     "faq.a5": "Ja, undertecknas på begäran. En stor del av vår portfölj är konfidentiella uppdrag för privata bolag.",
     "faq.q6": "Vad händer efter lansering?",
     "faq.a6": "Ni får överlämning och dokumentation, plus valfritt löpande underhåll och vidareutveckling enligt separat avtal.",
+    "faq.q8": "Är Charged samma bolag som Charged Development?",
+    "faq.a8": "Ja. Charged Development är vårt fullständiga namn, och det förkortas på alla möjliga sätt — Charged, Charged Tech, Charged Sweden. Det är ett och samma team, baserat i Stockholm, Sverige, med en enda webbplats: chargeddata.com.",
     "faq.q7": "Vilka länder arbetar ni i?",
     "faq.a7": "Bolaget är registrerat i Sverige och arbetar helt på distans. Vi har levererat projekt i Europa, Nordamerika, Ukraina och på andra håll — det finns inga geografiska begränsningar.",
 
@@ -344,7 +352,7 @@
     "quick.call": "Ring +46 72 233 84 11",
     "quick.note": "Svar inom 1–2 arbetsdagar. Första samtalet är kostnadsfritt.",
 
-    "footer.tagline": "Mjukvara, data och automation sedan 2019",
+    "footer.tagline": "Mjukvara, data och automation sedan 2019 · Stockholm, Sverige",
     "footer.place": "Stockholm, Sverige",
     "footer.privacy": "Integritetspolicy — kommer snart"
   };
@@ -433,6 +441,44 @@
     return String(value).replace(/<[^>]*>/g, "").replace(/\s+/g, " ").trim();
   }
 
+  var SITE_URL = "https://chargeddata.com/";
+  var OG_LOCALES = { en: "en_GB", sv: "sv_SE" };
+
+  /**
+   * Keeps the crawler-facing signals in step with the visible language: the canonical URL,
+   * og:url and og:locale, plus the address bar itself, so ?lang=sv is a real shareable and
+   * indexable URL rather than a hidden client-side state.
+   */
+  function canonicalFor(lang) {
+    return lang === DEFAULT_LANG ? SITE_URL : SITE_URL + "?lang=" + lang;
+  }
+
+  function setAttr(id, attribute, value) {
+    var node = document.getElementById(id);
+    if (node) node.setAttribute(attribute, value);
+  }
+
+  function syncSeo(lang) {
+    var canonical = canonicalFor(lang);
+    setAttr("canonical-link", "href", canonical);
+    setAttr("og-url", "content", canonical);
+    setAttr("og-locale", "content", OG_LOCALES[lang] || OG_LOCALES[DEFAULT_LANG]);
+  }
+
+  function syncUrl(lang) {
+    if (!window.history || !window.history.replaceState) return;
+
+    var params = new URLSearchParams(window.location.search);
+    if (lang === DEFAULT_LANG) params.delete("lang");
+    else params.set("lang", lang);
+
+    var query = params.toString();
+    var next = window.location.pathname + (query ? "?" + query : "") + window.location.hash;
+    if (next !== window.location.pathname + window.location.search + window.location.hash) {
+      window.history.replaceState(null, "", next);
+    }
+  }
+
   function syncSwitchUi(lang) {
     document.querySelectorAll(".lang-btn").forEach(function (button) {
       var isActive = button.dataset.lang === lang;
@@ -448,6 +494,8 @@
     document.documentElement.lang = lang;
     applyTo(document, lang);
     syncSwitchUi(lang);
+    syncSeo(lang);
+    syncUrl(lang);
 
     if (!options || options.persist !== false) storeLang(lang);
 

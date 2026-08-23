@@ -1,0 +1,6 @@
+# Charged Development — https://chargeddata.com/
+User-agent: *
+Allow: /
+
+# Static one-pager on GitHub Pages: nothing here is private, everything is crawlable.
+Sitemap: https://chargeddata.com/sitemap.xml
