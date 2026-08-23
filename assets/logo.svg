@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 48 48" role="img" aria-label="Charged Development">
+  <rect width="48" height="48" rx="12" fill="#0B0F14"/>
+  <circle cx="24" cy="24" r="13.5" fill="none" stroke="#ffffff" stroke-width="3"
+          stroke-linecap="round" stroke-dasharray="31 11 31 11" stroke-dashoffset="15.5"/>
+  <path d="M29.6 9.8 14.2 27.4h7.6l-3.4 11.4 15.4-17.6h-7.6z" fill="#ffffff"/>
+</svg>
