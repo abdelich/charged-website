@@ -12,15 +12,15 @@
   <meta name="geo.region" content="SE-AB">
   <meta name="geo.placename" content="Stockholm">
 
-  <link rel="canonical" id="canonical-link" href="https://chargeddata.com/">
+  <link rel="canonical" href="https://chargeddata.com/">
   <link rel="alternate" hreflang="en" href="https://chargeddata.com/">
-  <link rel="alternate" hreflang="sv" href="https://chargeddata.com/?lang=sv">
+  <link rel="alternate" hreflang="sv" href="https://chargeddata.com/sv/">
   <link rel="alternate" hreflang="x-default" href="https://chargeddata.com/">
 
   <meta property="og:type" content="website">
-  <meta property="og:url" id="og-url" content="https://chargeddata.com/">
+  <meta property="og:url" content="https://chargeddata.com/">
   <meta property="og:site_name" content="Charged Development">
-  <meta property="og:locale" id="og-locale" content="en_GB">
+  <meta property="og:locale" content="en_GB">
   <meta property="og:locale:alternate" content="sv_SE">
   <meta property="og:title" data-i18n-content="meta.title" content="Charged Development — Software, Data &amp; Automation | Sweden">
   <meta property="og:description" data-i18n-content="meta.ogDescription" content="We build software, data pipelines, and automation that remove manual work. Stockholm-based, working with clients worldwide.">
@@ -42,10 +42,10 @@
   <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700;800&display=swap" media="print" onload="this.media='all'">
   <noscript><link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700;800&display=swap"></noscript>
 
-  <link rel="icon" href="assets/logo.svg" type="image/svg+xml">
-  <link rel="icon" href="assets/charged-development-logo.png" type="image/png" sizes="512x512">
-  <link rel="apple-touch-icon" href="assets/charged-development-logo.png">
-  <link rel="stylesheet" href="css/styles.css">
+  <link rel="icon" href="/assets/logo.svg" type="image/svg+xml">
+  <link rel="icon" href="/assets/charged-development-logo.png" type="image/png" sizes="512x512">
+  <link rel="apple-touch-icon" href="/assets/charged-development-logo.png">
+  <link rel="stylesheet" href="/css/styles.css">
 </head>
 <body>
   <a class="skip-link" href="#main" data-i18n="a11y.skip">Skip to content</a>
@@ -53,7 +53,7 @@
   <header class="site-header" id="header">
     <div class="container header-inner">
       <a class="brand" href="#top" data-i18n-aria-label="a11y.brandHome" aria-label="Charged Development home">
-        <img class="brand-logo" src="assets/logo.svg" alt="" width="40" height="40">
+        <img class="brand-logo" src="/assets/logo.svg" alt="" width="40" height="40">
         <span class="brand-text">
           <span class="brand-name">Charged Development</span>
           <span class="brand-tagline" data-i18n="brand.tagline">Stockholm, Sweden</span>
@@ -75,7 +75,7 @@
 
       <div class="header-right">
         <div class="lang-switch" role="group" data-i18n-aria-label="a11y.language" aria-label="Language">
-          <button type="button" class="lang-btn is-active" data-lang="en" aria-pressed="true" lang="en" title="English">
+          <a class="lang-btn is-active" href="/" hreflang="en" lang="en" title="English" aria-current="page">
             <svg class="flag" viewBox="0 0 60 30" aria-hidden="true" focusable="false">
               <clipPath id="uk-diagonals"><path d="M30,15 h30 v15 z v15 h-30 z h-30 v-15 z v-15 h30 z"/></clipPath>
               <rect width="60" height="30" fill="#012169"/>
@@ -86,8 +86,8 @@
             </svg>
             <span class="lang-code">EN</span>
             <span class="visually-hidden">English</span>
-          </button>
-          <button type="button" class="lang-btn" data-lang="sv" aria-pressed="false" lang="sv" title="Svenska">
+          </a>
+          <a class="lang-btn" href="/sv/" hreflang="sv" lang="sv" title="Svenska">
             <svg class="flag" viewBox="0 0 60 30" aria-hidden="true" focusable="false">
               <rect width="60" height="30" fill="#006aa7"/>
               <rect y="12" width="60" height="6" fill="#fecc00"/>
@@ -95,7 +95,7 @@
             </svg>
             <span class="lang-code">SV</span>
             <span class="visually-hidden">Svenska</span>
-          </button>
+          </a>
         </div>
 
         <button class="nav-toggle" id="nav-toggle" type="button" aria-expanded="false" aria-controls="site-nav" data-i18n-aria-label="a11y.openMenu" aria-label="Open menu">
@@ -878,7 +878,7 @@
   <footer class="site-footer">
     <div class="container footer-inner">
       <div class="footer-brand">
-        <img src="assets/logo.svg" alt="" width="36" height="36">
+        <img src="/assets/logo.svg" alt="" width="36" height="36">
         <span>
           <strong>Charged Development</strong>
           <span data-i18n="footer.tagline">Software, data, and automation since 2019 · Stockholm, Sweden</span>
@@ -1181,7 +1181,7 @@
     ]
   }
   </script>
-  <script src="js/i18n.js"></script>
-  <script src="js/main.js"></script>
+  <script src="/js/i18n.js"></script>
+  <script src="/js/main.js"></script>
 </body>
 </html>

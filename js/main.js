@@ -78,7 +78,6 @@ function initWorkFilter() {
   });
 
   render();
-  window.I18N.onChange(render);
 }
 
 /**
@@ -149,7 +148,6 @@ function initQuickContact() {
   }
 
   setOpen(false);
-  window.I18N.onChange(() => setOpen(!panel.hidden));
 }
 
 /**

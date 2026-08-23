@@ -1306,6 +1306,7 @@ textarea {
   display: inline-flex;
   align-items: center;
   gap: 0.4rem;
+  text-decoration: none;
   padding: 0.32rem 0.4rem;
   border: 0;
   border-radius: var(--radius-sm);
