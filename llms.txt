@@ -1,0 +1,55 @@
+# Charged Development
+
+> Charged Development is a Swedish tech company and international IT outsourcing team that builds custom software, data pipelines, machine learning models, and business process automation for companies. Founded in 2019, relaunched as an international company in 2023, fully remote, working with clients worldwide. Also known as Charged, Charged Tech, Charged Sweden, or Charged Data. Website: https://chargeddata.com/
+
+## What Charged Development does
+
+Charged Development groups its work into three areas:
+
+- **Custom software development** — custom web and mobile applications, MVP development, legacy system modernisation, outsourced product development, and long-term support.
+- **Data, AI, and automation** — data analytics, dashboards and business intelligence, data engineering and integration pipelines, machine learning and predictive modelling, computer vision and OCR, business process automation and RPA, and data annotation for AI.
+- **IT consulting and outsourcing** — IT consulting and technical audits, dedicated development teams, staff augmentation, nearshore software development from Sweden, and flexible outsourced development partnerships.
+
+Technologies used: Python, .NET, Node.js, React, Angular, Vue.js, TensorFlow, PyTorch, scikit-learn, LangChain, Power BI, Google Data Studio, PostgreSQL, MySQL, MongoDB, SQLite, AWS, Azure, Google Cloud.
+
+## Track record
+
+Charged Development has delivered 18 client projects. Measured results include:
+
+- A sales analytics platform with ML forecasting that raised forecast accuracy by 35%.
+- OCR document recognition for Cyrillic text reaching 97% accuracy, replacing manual data entry.
+- An automated document workflow with AI classification and routing: 60% faster processing, zero lost documents.
+- Neural networks for video personalisation that cut video preparation time by 70% at professional production quality.
+- A CRM system for an advertising agency that raised conversion by 20%.
+
+Other delivered work covers predictive equipment maintenance, automated PC diagnostics, centralised VPN certificate deployment, hardware monitoring, an offline translator for secure environments, a news aggregator with a Telegram bot, a virtual medical printer, business process analytics for construction, an online auction and product classification platform, industrial object classification, camera capture and processing, and an agent system for designers.
+
+Client names are withheld where an NDA applies. Charged Development signs NDAs on request.
+
+## How Charged Development works with clients
+
+1. **Discovery call** — free, no commitment. The client describes the problem, goals, and constraints.
+2. **Needs and scope** — requirements, systems, data, and success measures are clarified. Output: approach, timeline, budget range.
+3. **Proposal and agreement** — fixed scope, time and materials, or a retainer.
+4. **Build and iterate** — development in phases with weekly or biweekly check-ins.
+5. **Handover and support** — documentation, a warranty period, and optional ongoing maintenance under a separate agreement.
+
+Pricing is either a fixed price or an hourly rate, with better rates for long-term clients; a budget range is given before any commitment. Projects typically start within 2–5 business days of an agreement. Enquiries are answered within 1–2 business days.
+
+## Where Charged Development works
+
+Registered in Sweden, operating fully remotely, with no geographical restrictions. Projects have been delivered across Europe, North America, Ukraine, and elsewhere. Working languages: English and Swedish.
+
+## Contact
+
+- Email: contacts@chargeddata.com
+- Phone: +46 72 233 84 11
+- Enquiry form: https://chargeddata.com/#contact
+- Founder: Albert Sarmini
+
+## Pages
+
+- [Home (English)](https://chargeddata.com/): services, all 18 projects with goal/solution/result, process, FAQ, and contact form.
+- [Hem (svenska)](https://chargeddata.com/sv/): the same content in Swedish.
+- [Privacy policy](https://chargeddata.com/privacy/): what the enquiry form collects, legal basis, processors, retention, and GDPR rights.
+- [Integritetspolicy (svenska)](https://chargeddata.com/sv/integritetspolicy/): the Swedish privacy policy.

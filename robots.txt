@@ -1,6 +1,62 @@
 # Charged Development — https://chargeddata.com/
+# Static site on GitHub Pages: nothing here is private, everything is crawlable.
+
 User-agent: *
 Allow: /
 
-# Static one-pager on GitHub Pages: nothing here is private, everything is crawlable.
+# Search crawlers, named explicitly so a future edit to the rule above cannot
+# lock them out by accident.
+User-agent: Googlebot
+Allow: /
+
+User-agent: Bingbot
+Allow: /
+
+User-agent: DuckDuckBot
+Allow: /
+
+# Assistants and answer engines. People increasingly find suppliers by asking a
+# chatbot rather than by searching, so these are welcome to read and cite the site.
+User-agent: OAI-SearchBot
+Allow: /
+
+User-agent: ChatGPT-User
+Allow: /
+
+User-agent: GPTBot
+Allow: /
+
+User-agent: ClaudeBot
+Allow: /
+
+User-agent: Claude-SearchBot
+Allow: /
+
+User-agent: Claude-User
+Allow: /
+
+User-agent: PerplexityBot
+Allow: /
+
+User-agent: Perplexity-User
+Allow: /
+
+User-agent: Google-Extended
+Allow: /
+
+User-agent: Applebot
+Allow: /
+
+User-agent: Applebot-Extended
+Allow: /
+
+User-agent: meta-externalagent
+Allow: /
+
+User-agent: Amazonbot
+Allow: /
+
+User-agent: CCBot
+Allow: /
+
 Sitemap: https://chargeddata.com/sitemap.xml
